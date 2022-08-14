@@ -1,0 +1,23 @@
+{
+  "GLS Gemeinschaftsbank": {
+    "domain": "gls.de",
+    "url": "https://www.gls.de/",
+    "tfa": [
+      "custom-software",
+      "custom-hardware"
+    ],
+    "custom-software": [
+      "SecureGo plus"
+    ],
+    "custom-hardware": [
+      "Sm@rtTAN"
+    ],
+    "documentation": "https://www.gls.de/privatkunden/faq/onlinebanking/was-ist-die-zwei-faktor-authentifizierung-2fa-1/",
+    "keywords": [
+      "banking"
+    ],
+    "regions": [
+      "de"
+    ]
+  }
+}

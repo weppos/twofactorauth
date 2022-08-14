@@ -1,0 +1,22 @@
+{
+  "Stanford University": {
+    "domain": "stanford.edu",
+    "url": "https://www.stanford.edu/",
+    "tfa": [
+      "sms",
+      "call",
+      "custom-software",
+      "custom-hardware"
+    ],
+    "custom-software": [
+      "Duo"
+    ],
+    "documentation": "https://uit.stanford.edu/service/webauth/twostep",
+    "keywords": [
+      "universities"
+    ],
+    "regions": [
+      "us"
+    ]
+  }
+}

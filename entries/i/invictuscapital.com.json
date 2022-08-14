@@ -1,0 +1,14 @@
+{
+  "Invictus Capital": {
+    "domain": "invictuscapital.com",
+    "tfa": [
+      "sms",
+      "call",
+      "totp"
+    ],
+    "recovery": "https://help.invictuscapital.com/en/articles/3561870",
+    "keywords": [
+      "cryptocurrencies"
+    ]
+  }
+}

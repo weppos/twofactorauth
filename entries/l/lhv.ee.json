@@ -1,0 +1,23 @@
+{
+  "LHV": {
+    "domain": "lhv.ee",
+    "tfa": [
+      "custom-software",
+      "custom-hardware"
+    ],
+    "custom-software": [
+      "SmartID"
+    ],
+    "custom-hardware": [
+      "ID-card",
+      "mobile-ID",
+      "Security token"
+    ],
+    "regions": [
+      "ee"
+    ],
+    "keywords": [
+      "banking"
+    ]
+  }
+}

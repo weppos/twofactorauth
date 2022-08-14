@@ -1,0 +1,17 @@
+{
+  "WP Engine": {
+    "domain": "wpengine.com",
+    "tfa": [
+      "sms",
+      "email",
+      "custom-software"
+    ],
+    "custom-software": [
+      "Okta Verify"
+    ],
+    "documentation": "https://wpengine.com/support/2-factor-authentication/",
+    "keywords": [
+      "hosting"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Gemini": {
+    "domain": "gemini.com",
+    "tfa": [
+      "sms",
+      "custom-software",
+      "u2f"
+    ],
+    "custom-software": [
+      "Authy"
+    ],
+    "documentation": "https://support.gemini.com/hc/en-us/articles/204732985",
+    "keywords": [
+      "cryptocurrencies"
+    ],
+    "regions": [
+      "us",
+      "ca",
+      "hk",
+      "sg",
+      "kr",
+      "gb",
+      "au"
+    ]
+  }
+}

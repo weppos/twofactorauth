@@ -1,0 +1,12 @@
+{
+  "Audiense": {
+    "domain": "audiense.com",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://help.audiense.com/knowledge/two-factor-authentication",
+    "keywords": [
+      "marketing"
+    ]
+  }
+}

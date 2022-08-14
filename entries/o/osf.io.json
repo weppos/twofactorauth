@@ -1,0 +1,12 @@
+{
+  "Open Science Framework (OSF)": {
+    "domain": "osf.io",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://help.osf.io/article/239--",
+    "keywords": [
+      "education"
+    ]
+  }
+}

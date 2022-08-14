@@ -1,0 +1,17 @@
+{
+  "Halebop": {
+    "domain": "halebop.se",
+    "tfa": [
+      "custom-software"
+    ],
+    "custom-software": [
+      "BankID"
+    ],
+    "keywords": [
+      "utilities"
+    ],
+    "regions": [
+      "se"
+    ]
+  }
+}

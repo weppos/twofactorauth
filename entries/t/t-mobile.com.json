@@ -1,0 +1,22 @@
+{
+  "T-Mobile": {
+    "domain": "t-mobile.com",
+    "url": "https://www.t-mobile.com/",
+    "tfa": [
+      "sms",
+      "totp",
+      "custom-hardware"
+    ],
+    "custom-hardware": [
+      "Biometrics via T-Mobile App"
+    ],
+    "documentation": "https://www.t-mobile.com/support/account/set-up-and-manage-your-t-mobile-id#heading4",
+    "notes": "Backup methods of SMS or recovery questions can't be disabled.",
+    "keywords": [
+      "utilities"
+    ],
+    "regions": [
+      "us"
+    ]
+  }
+}

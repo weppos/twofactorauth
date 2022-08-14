@@ -1,0 +1,13 @@
+{
+  "Vimeo": {
+    "domain": "vimeo.com",
+    "tfa": [
+      "totp",
+      "email"
+    ],
+    "documentation": "https://vimeo.zendesk.com/hc/en-us/articles/4856243815693",
+    "keywords": [
+      "entertainment"
+    ]
+  }
+}

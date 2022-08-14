@@ -1,0 +1,13 @@
+{
+  "DNSFilter": {
+    "domain": "dnsfilter.com",
+    "url": "https://www.dnsfilter.com/",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://help.dnsfilter.com/hc/en-us/articles/4419435706003",
+    "keywords": [
+      "security"
+    ]
+  }
+}

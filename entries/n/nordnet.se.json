@@ -1,0 +1,18 @@
+{
+  "Nordnet Sverige": {
+    "domain": "nordnet.se",
+    "img": "nordnet.svg",
+    "tfa": [
+      "custom-software"
+    ],
+    "custom-software": [
+      "BankID"
+    ],
+    "keywords": [
+      "banking"
+    ],
+    "regions": [
+      "se"
+    ]
+  }
+}

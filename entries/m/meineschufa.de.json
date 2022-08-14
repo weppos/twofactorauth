@@ -1,0 +1,15 @@
+{
+  "SCHUFA": {
+    "domain": "meineschufa.de",
+    "tfa": [
+      "sms"
+    ],
+    "documentation": "https://www.meineschufa.de/de/faq/login",
+    "keywords": [
+      "finance"
+    ],
+    "regions": [
+      "de"
+    ]
+  }
+}

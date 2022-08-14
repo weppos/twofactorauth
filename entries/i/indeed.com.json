@@ -1,0 +1,14 @@
+{
+  "Indeed": {
+    "domain": "indeed.com",
+    "url": "https://www.indeed.com/",
+    "tfa": [
+      "sms",
+      "call"
+    ],
+    "documentation": "https://www.indeed.com/lead/two-factor-authentication",
+    "keywords": [
+      "other"
+    ]
+  }
+}

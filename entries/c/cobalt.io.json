@@ -1,0 +1,12 @@
+{
+  "Cobalt": {
+    "domain": "cobalt.io",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://cobaltio.zendesk.com/hc/en-us/articles/4408918977940",
+    "keywords": [
+      "security"
+    ]
+  }
+}

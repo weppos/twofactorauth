@@ -1,0 +1,13 @@
+{
+  "AngelList": {
+    "domain": "angel.co",
+    "tfa": [
+      "sms",
+      "totp"
+    ],
+    "recovery": "https://help.angel.co/article/312--",
+    "keywords": [
+      "other"
+    ]
+  }
+}

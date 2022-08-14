@@ -1,0 +1,13 @@
+{
+  "Trello": {
+    "domain": "trello.com",
+    "tfa": [
+      "sms",
+      "totp"
+    ],
+    "documentation": "https://support.atlassian.com/atlassian-account/docs/manage-two-step-verification-for-your-atlassian-account/",
+    "keywords": [
+      "task"
+    ]
+  }
+}

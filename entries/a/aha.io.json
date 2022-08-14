@@ -1,0 +1,20 @@
+{
+  "Aha!": {
+    "domain": "aha.io",
+    "url": "https://www.aha.io/",
+    "tfa": [
+      "sms",
+      "call",
+      "custom-software",
+      "u2f"
+    ],
+    "custom-software": [
+      "Duo"
+    ],
+    "notes": "2FA is only available through Duo.",
+    "documentation": "https://www.aha.io/support/ideas/ideas/settings/account-settings#security-and-single-sign-on",
+    "keywords": [
+      "developer"
+    ]
+  }
+}

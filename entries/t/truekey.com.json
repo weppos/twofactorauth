@@ -1,0 +1,18 @@
+{
+  "True Key": {
+    "domain": "truekey.com",
+    "url": "https://www.truekey.com",
+    "tfa": [
+      "email",
+      "custom-software",
+      "custom-hardware"
+    ],
+    "custom-hardware": [
+      "Biometrics"
+    ],
+    "documentation": "https://service.mcafee.com/?page=shell&shell=article-view&articleId=TS102352",
+    "keywords": [
+      "identity"
+    ]
+  }
+}

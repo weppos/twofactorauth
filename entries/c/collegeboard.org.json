@@ -1,0 +1,15 @@
+{
+  "College Board": {
+    "domain": "collegeboard.org",
+    "tfa": [
+      "email"
+    ],
+    "keywords": [
+      "education",
+      "universities"
+    ],
+    "regions": [
+      "us"
+    ]
+  }
+}

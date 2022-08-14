@@ -1,0 +1,17 @@
+{
+  "Trion Worlds": {
+    "domain": "trionworlds.com",
+    "url": "https://www.trionworlds.com/en/",
+    "tfa": [
+      "email",
+      "custom-software"
+    ],
+    "custom-software": [
+      "Glyph Auth"
+    ],
+    "documentation": "https://support.trionworlds.com/hc/en-us/articles/204183357",
+    "keywords": [
+      "gaming"
+    ]
+  }
+}

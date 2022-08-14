@@ -1,0 +1,17 @@
+{
+  "Vodafone (DE)": {
+    "domain": "vodafone.de",
+    "img": "vodafone.svg",
+    "contact": {
+      "facebook": "vodafoneDE",
+      "twitter": "vodafoneservice",
+      "language": "de"
+    },
+    "keywords": [
+      "utilities"
+    ],
+    "regions": [
+      "de"
+    ]
+  }
+}

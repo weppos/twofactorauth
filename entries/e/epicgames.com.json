@@ -1,0 +1,18 @@
+{
+  "Epic Games": {
+    "domain": "epicgames.com",
+    "additional-domains": [
+      "fortnite.com",
+      "fallguys.com"
+    ],
+    "tfa": [
+      "sms",
+      "email",
+      "totp"
+    ],
+    "documentation": "https://www.epicgames.com/help/en-US/c74/c112/a3218",
+    "keywords": [
+      "gaming"
+    ]
+  }
+}

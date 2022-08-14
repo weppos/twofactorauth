@@ -1,0 +1,12 @@
+{
+  "DataRobot": {
+    "domain": "datarobot.com",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://docs.datarobot.com/en/docs/platform/authentication/2fa.html",
+    "keywords": [
+      "developer"
+    ]
+  }
+}

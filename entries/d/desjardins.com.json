@@ -1,0 +1,20 @@
+{
+  "Desjardins": {
+    "domain": "desjardins.com",
+    "tfa": [
+      "sms",
+      "custom-software"
+    ],
+    "custom-software": [
+      "Desjardins Mobile Services App"
+    ],
+    "documentation": "https://www.desjardins.com/securite/validation-2-etapes/",
+    "regions": [
+      "us",
+      "ca"
+    ],
+    "keywords": [
+      "banking"
+    ]
+  }
+}

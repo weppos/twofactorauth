@@ -1,0 +1,15 @@
+{
+  "HUK-Coburg": {
+    "domain": "huk.de",
+    "tfa": [
+      "sms",
+      "call"
+    ],
+    "keywords": [
+      "finance"
+    ],
+    "regions": [
+      "de"
+    ]
+  }
+}

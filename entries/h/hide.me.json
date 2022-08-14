@@ -1,0 +1,12 @@
+{
+  "hide.me VPN": {
+    "domain": "hide.me",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://hide.me/en/blog/hide-me-vpn-now-supports-2fa/",
+    "keywords": [
+      "vpn"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Telia": {
+    "domain": "telia.se",
+    "tfa": [
+      "custom-software"
+    ],
+    "custom-software": [
+      "BankID"
+    ],
+    "documentation": "https://www.telia.se/privat/support/info/logga-in-med-bankid-och-eleg-pa-mitt-telia",
+    "keywords": [
+      "utilities"
+    ],
+    "regions": [
+      "se"
+    ]
+  }
+}

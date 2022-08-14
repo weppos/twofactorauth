@@ -1,0 +1,17 @@
+{
+  "Coinberry": {
+    "domain": "coinberry.com",
+    "url": "https://www.coinberry.com/",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://help.coinberry.com/hc/en-us/articles/4505782775569",
+    "recovery": "https://help.coinberry.com/hc/en-us/articles/4506298382993",
+    "keywords": [
+      "cryptocurrencies"
+    ],
+    "regions": [
+      "ca"
+    ]
+  }
+}

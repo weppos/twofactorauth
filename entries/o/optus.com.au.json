@@ -1,0 +1,15 @@
+{
+  "Optus": {
+    "domain": "optus.com.au",
+    "tfa": [
+      "sms",
+      "email"
+    ],
+    "keywords": [
+      "utilities"
+    ],
+    "regions": [
+      "au"
+    ]
+  }
+}

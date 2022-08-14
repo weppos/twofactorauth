@@ -1,0 +1,16 @@
+{
+  "Geico": {
+    "domain": "geico.com",
+    "tfa": [
+      "sms",
+      "email"
+    ],
+    "documentation": "https://www.geico.com/web-and-mobile/2SV/",
+    "keywords": [
+      "finance"
+    ],
+    "regions": [
+      "us"
+    ]
+  }
+}

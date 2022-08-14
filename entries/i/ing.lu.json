@@ -1,0 +1,24 @@
+{
+  "ING (Luxembourg)": {
+    "domain": "ing.lu",
+    "url": "https://www.ing.lu",
+    "img": "ing.svg",
+    "tfa": [
+      "custom-hardware",
+      "custom-software"
+    ],
+    "custom-software": [
+      "LuxTrust Mobile App"
+    ],
+    "custom-hardware": [
+      "LuxTrust Token"
+    ],
+    "documentation": "https://www.ing.lu/webing/content/siteing/en/Individuals/Onlineproduct/Contact/frequently-asked-questions/faq-online-banking-.html#accordion-16b6eafd77-item-36c4e5a172",
+    "regions": [
+      "lu"
+    ],
+    "keywords": [
+      "banking"
+    ]
+  }
+}

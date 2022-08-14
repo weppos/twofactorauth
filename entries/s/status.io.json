@@ -1,0 +1,15 @@
+{
+  "Status.io": {
+    "domain": "status.io",
+    "tfa": [
+      "custom-hardware"
+    ],
+    "custom-hardware": [
+      "Yubico OTP"
+    ],
+    "documentation": "https://kb.status.io/security/yubikey/",
+    "keywords": [
+      "developer"
+    ]
+  }
+}

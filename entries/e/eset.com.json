@@ -1,0 +1,12 @@
+{
+  "ESET HOME": {
+    "domain": "eset.com",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://help.eset.com/home_eset/en-US/two_factor_authentication.html",
+    "keywords": [
+      "security"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Walmart": {
+    "domain": "walmart.com",
+    "contact": {
+      "facebook": "walmart",
+      "twitter": "walmarthelp"
+    },
+    "regions": [
+      "us"
+    ],
+    "keywords": [
+      "retail"
+    ]
+  }
+}

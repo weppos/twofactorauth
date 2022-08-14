@@ -1,0 +1,17 @@
+{
+  "RealMe": {
+    "domain": "realme.govt.nz",
+    "url": "https://www.realme.govt.nz/",
+    "tfa": [
+      "sms",
+      "totp"
+    ],
+    "documentation": "https://www.realme.govt.nz/help/#second-factor-authentication",
+    "keywords": [
+      "government"
+    ],
+    "regions": [
+      "nz"
+    ]
+  }
+}

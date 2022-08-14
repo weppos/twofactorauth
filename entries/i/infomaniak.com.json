@@ -1,0 +1,18 @@
+{
+  "Infomaniak": {
+    "domain": "infomaniak.com",
+    "url": "https://www.infomaniak.com/",
+    "tfa": [
+      "sms",
+      "totp",
+      "custom-software"
+    ],
+    "custom-software": [
+      "Infomaniak Auth"
+    ],
+    "documentation": "https://www.infomaniak.com/en/support/faq/1940",
+    "keywords": [
+      "hosting"
+    ]
+  }
+}

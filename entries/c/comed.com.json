@@ -1,0 +1,17 @@
+{
+  "ComEd": {
+    "domain": "comed.com",
+    "tfa": [
+      "sms",
+      "call",
+      "email"
+    ],
+    "documentation": "https://www.comed.com/MyAccount/CustomerSupport/pages/faqs.aspx#WebPartWPQ15",
+    "keywords": [
+      "utilities"
+    ],
+    "regions": [
+      "us"
+    ]
+  }
+}

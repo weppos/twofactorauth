@@ -1,0 +1,23 @@
+{
+  "University of Notre Dame": {
+    "domain": "nd.edu",
+    "url": "https://www.nd.edu",
+    "tfa": [
+      "sms",
+      "call",
+      "custom-software",
+      "u2f",
+      "totp"
+    ],
+    "custom-software": [
+      "Okta Verify"
+    ],
+    "documentation": "https://nd.service-now.com/nd_portal?id=kb_article_view&sysparm_article=KB0017218",
+    "keywords": [
+      "universities"
+    ],
+    "regions": [
+      "us"
+    ]
+  }
+}

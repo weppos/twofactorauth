@@ -1,0 +1,17 @@
+{
+  "Litmus": {
+    "domain": "litmus.com",
+    "url": "https://www.litmus.com",
+    "tfa": [
+      "sms",
+      "custom-software"
+    ],
+    "custom-software": [
+      "Authy"
+    ],
+    "documentation": "https://help.litmus.com/article/128--",
+    "keywords": [
+      "marketing"
+    ]
+  }
+}

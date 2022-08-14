@@ -1,0 +1,21 @@
+{
+  "UKFast": {
+    "domain": "ukfast.co.uk",
+    "url": "https://www.ukfast.co.uk/",
+    "tfa": [
+      "sms",
+      "totp",
+      "custom-hardware"
+    ],
+    "custom-hardware": [
+      "Yubico OTP"
+    ],
+    "documentation": "https://github.com/2factorauth/twofactorauth/pull/997#issuecomment-77708501",
+    "keywords": [
+      "hosting"
+    ],
+    "regions": [
+      "gb"
+    ]
+  }
+}

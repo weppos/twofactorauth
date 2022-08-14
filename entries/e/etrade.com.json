@@ -1,0 +1,23 @@
+{
+  "E*Trade": {
+    "domain": "etrade.com",
+    "url": "https://www.etrade.com/",
+    "tfa": [
+      "custom-software",
+      "custom-hardware"
+    ],
+    "custom-software": [
+      "Symantec VIP Access"
+    ],
+    "custom-hardware": [
+      "Symantec hardware token"
+    ],
+    "documentation": "https://us.etrade.com/security-center/securityid",
+    "keywords": [
+      "investing"
+    ],
+    "regions": [
+      "us"
+    ]
+  }
+}

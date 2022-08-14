@@ -1,0 +1,25 @@
+{
+  "University of Washington": {
+    "domain": "washington.edu",
+    "url": "https://www.washington.edu/",
+    "tfa": [
+      "call",
+      "custom-software",
+      "custom-hardware"
+    ],
+    "custom-software": [
+      "Duo"
+    ],
+    "custom-hardware": [
+      "Feitian OTP c100 Token",
+      "Yubico OTP"
+    ],
+    "documentation": "https://itconnect.uw.edu/security/uw-netids/2fa/",
+    "keywords": [
+      "universities"
+    ],
+    "regions": [
+      "us"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "bugcrowd": {
+    "domain": "bugcrowd.com",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://docs.bugcrowd.com/customers/role-and-account-management/security/using-two-factor-authentication/",
+    "keywords": [
+      "security"
+    ]
+  }
+}

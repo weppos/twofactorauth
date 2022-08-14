@@ -1,0 +1,23 @@
+{
+  "Barclays UK": {
+    "domain": "barclays.co.uk",
+    "img": "barclays.svg",
+    "tfa": [
+      "custom-software",
+      "custom-hardware"
+    ],
+    "custom-hardware": [
+      "PINsentry card reader"
+    ],
+    "custom-software": [
+      "Barclays App PINsentry"
+    ],
+    "documentation": "https://www.barclays.co.uk/ways-to-bank/online-banking/pinsentry-guide/",
+    "regions": [
+      "gb"
+    ],
+    "keywords": [
+      "banking"
+    ]
+  }
+}

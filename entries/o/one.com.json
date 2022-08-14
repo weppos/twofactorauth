@@ -1,0 +1,16 @@
+{
+  "One.com": {
+    "domain": "one.com",
+    "tfa": [
+      "totp",
+      "custom-software"
+    ],
+    "custom-software": [
+      "one.com companion"
+    ],
+    "documentation": "https://help.one.com/hc/en-us/articles/4404699986321",
+    "keywords": [
+      "hosting"
+    ]
+  }
+}

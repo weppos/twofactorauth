@@ -1,0 +1,13 @@
+{
+  "Engine Yard": {
+    "domain": "engineyard.com",
+    "url": "https://www.engineyard.com",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://support.cloud.engineyard.com/hc/en-us/articles/4412829652507",
+    "keywords": [
+      "cloud"
+    ]
+  }
+}

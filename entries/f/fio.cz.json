@@ -1,0 +1,20 @@
+{
+  "Fio banka": {
+    "domain": "fio.cz",
+    "url": "https://www.fio.cz",
+    "tfa": [
+      "sms",
+      "custom-software"
+    ],
+    "custom-software": [
+      "Fio Smartbanking CZ"
+    ],
+    "documentation": "https://www.fio.cz/bank-services/internetbanking/security",
+    "regions": [
+      "cz"
+    ],
+    "keywords": [
+      "banking"
+    ]
+  }
+}

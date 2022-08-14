@@ -1,0 +1,19 @@
+{
+  "Questrade": {
+    "domain": "questrade.com",
+    "url": "https://www.questrade.com",
+    "tfa": [
+      "sms",
+      "call",
+      "totp",
+      "email"
+    ],
+    "documentation": "https://www.questrade.com/learning/questrade-basics/lesson/account-profile-and-security",
+    "keywords": [
+      "investing"
+    ],
+    "regions": [
+      "ca"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Pocket": {
+    "domain": "getpocket.com",
+    "tfa": [
+      "totp"
+    ],
+    "documentation": "https://support.mozilla.org/en-US/kb/secure-firefox-account-two-step-authentication",
+    "recovery": "https://support.mozilla.org/en-US/kb/what-if-im-locked-out-two-step-authentication",
+    "keywords": [
+      "other"
+    ]
+  }
+}

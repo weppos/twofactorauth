@@ -1,0 +1,17 @@
+{
+  "Pobox": {
+    "domain": "pobox.com",
+    "url": "https://www.pobox.com/",
+    "tfa": [
+      "totp",
+      "custom-hardware"
+    ],
+    "custom-hardware": [
+      "Yubico OTP"
+    ],
+    "documentation": "https://www.pobox.help/hc/en-us/sections/1500000033741",
+    "keywords": [
+      "email"
+    ]
+  }
+}

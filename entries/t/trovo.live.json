@@ -1,0 +1,12 @@
+{
+  "Trovo": {
+    "domain": "trovo.live",
+    "tfa": [
+      "totp",
+      "sms"
+    ],
+    "keywords": [
+      "entertainment"
+    ]
+  }
+}

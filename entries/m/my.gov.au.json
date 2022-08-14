@@ -1,0 +1,19 @@
+{
+  "myGov": {
+    "domain": "my.gov.au",
+    "tfa": [
+      "sms",
+      "custom-software"
+    ],
+    "custom-software": [
+      "myGov Code Generator"
+    ],
+    "documentation": "https://my.gov.au/mygov/content/html/help.html#securityCode",
+    "keywords": [
+      "government"
+    ],
+    "regions": [
+      "au"
+    ]
+  }
+}

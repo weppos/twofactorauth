@@ -1,0 +1,16 @@
+{
+  "Invoiced": {
+    "domain": "invoiced.com",
+    "tfa": [
+      "sms",
+      "custom-software"
+    ],
+    "custom-software": [
+      "Authy"
+    ],
+    "documentation": "https://docs.invoiced.com/faqs#wBTZz",
+    "keywords": [
+      "finance"
+    ]
+  }
+}

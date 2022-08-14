@@ -1,0 +1,16 @@
+{
+  "Code Climate": {
+    "domain": "codeclimate.com",
+    "tfa": [
+      "sms",
+      "custom-software"
+    ],
+    "custom-software": [
+      "Authy"
+    ],
+    "documentation": "https://docs.codeclimate.com/docs/enabling-two-factor-authentication",
+    "keywords": [
+      "developer"
+    ]
+  }
+}

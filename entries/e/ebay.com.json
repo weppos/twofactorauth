@@ -1,0 +1,18 @@
+{
+  "eBay": {
+    "domain": "ebay.com",
+    "url": "https://www.ebay.com",
+    "img": "ebay.svg",
+    "tfa": [
+      "sms",
+      "custom-software"
+    ],
+    "custom-software": [
+      "eBay app"
+    ],
+    "documentation": "https://www.ebay.com/help/account/protecting-account/tips-keeping-ebay-account-secure?id=4872#section2",
+    "keywords": [
+      "retail"
+    ]
+  }
+}

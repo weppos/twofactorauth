@@ -1,0 +1,12 @@
+{
+  "CoinTracking": {
+    "domain": "cointracking.info",
+    "tfa": [
+      "totp"
+    ],
+    "recovery": "https://cointracking.freshdesk.com/en/support/solutions/articles/29000021946",
+    "keywords": [
+      "cryptocurrencies"
+    ]
+  }
+}
